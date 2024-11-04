@@ -16,7 +16,10 @@ This repository contains a **Laptop Price Prediction System** developed using Py
 
 ## Project Overview
 
-The Laptop Price Prediction System leverages machine learning to predict laptop prices based on specifications such as brand, processor, RAM, storage, screen size, and more. This project is ideal for market analysis, helping users and businesses estimate prices accurately to make informed decisions.
+The **Laptop Price Prediction System** leverages machine learning to predict laptop prices based on specifications such as brand, processor, RAM, storage, screen size, and more. This project is ideal for market analysis, helping users and businesses estimate prices accurately to make informed decisions.
+
+![Screenshot of Laptop Price Prediction System](Output-Image.jpg)
+
 
 ## System Workflow
 
